@@ -11,7 +11,8 @@ pip3 install mxnet-mkl==1.6.0 numpy==1.23.1
 pip install opencv-python
 pip install flax==0.6.11
 pip install tensorflow
-pip install gsutil 
+pip install gsutil
+pip install tensorflow==2.11.0
 ```
 2. Install gym-minigrid
 ```
