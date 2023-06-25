@@ -9,6 +9,7 @@ pip install blosc; cd babyai-text/babyai; pip install -e .; cd ..
 pip3 install mxnet-mkl==1.6.0 numpy==1.23.1
 pip install opencv-python
 pip install flax==0.6.11
+pip install tensorflow
 ```
 2. Install gym-minigrid
 ```
