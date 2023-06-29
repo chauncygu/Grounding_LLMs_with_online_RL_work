@@ -13,6 +13,7 @@ pip install flax==0.5.1
 pip install tensorflow
 pip install gsutil
 pip install tensorflow==2.11.0
+pip install chardet
 ```
 2. Install gym-minigrid
 ```
